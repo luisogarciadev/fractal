@@ -1,0 +1,15 @@
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\Fractal14827.Form1.resources
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\Fractal14827.Properties.Resources.resources
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\Fractal14827.csproj.GenerateResource.Cache
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\bin\Debug\Fractal14827.exe
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\bin\Debug\Fractal14827.pdb
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\Fractal14827.exe
+C:\Documents and Settings\Luis\My Documents\Visual Studio 2008\Projects\5to Semestre\Programación Avanzada\Fractal14827\Fractal14827\obj\Debug\Fractal14827.pdb
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\obj\Debug\Fractal14827.pdb
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\bin\Debug\Fractal14827.exe
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\bin\Debug\Fractal14827.pdb
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\obj\Debug\Fractal14827.Form1.resources
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\obj\Debug\Fractal14827.Properties.Resources.resources
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\obj\Debug\Fractal14827.csproj.GenerateResource.Cache
+C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827\obj\Debug\Fractal14827.exe

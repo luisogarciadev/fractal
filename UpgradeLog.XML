@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Fractal14827">
+</Property><Property Name="Solution File" Value="C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Fractal14827.suo">
+</Property><Property Name="Date" Value="Monday, May 19, 2014">
+</Property><Property Name="Time" Value="20:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Fractal14827.sln" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Fractal14827.suo" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827.suo">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Fractal14827.csproj" Description="Project file successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Fractal14827.csproj">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Buffer.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Buffer.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Form1.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Program.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Program.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Form1.resx" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Luis\Downloads\Fractal14827\Fractal14827\Backup\Fractal14827\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Fractal14827.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Fractal14827" Source="Fractal14827\Fractal14827.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Fractal14827.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Fractal14827.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Fractal14827" Source="Fractal14827\Fractal14827.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
